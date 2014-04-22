@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><archetype-catalog>
+  <archetypes>
+    <archetype>
+      <groupId>org.openarchetypes</groupId>
+      <artifactId>tycho-eclipse-plugin-archetype</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+      <description>Creates multiple, Tycho-built, eclipse-plugin projects : Parent project, Core plugin, Test fragment, Feature and Update plugins.(with Spike Feature)</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
